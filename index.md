@@ -5,10 +5,12 @@
 - Hyperlinks 
 
 Visão Geral:
+
 ```HTML
 <h1>Isso é um título</h1>
 <a href="https://google.com">Isso é uma âncora</a>
 ```
+
 # CSS
 *Cascading StyleSheet*
 
@@ -19,6 +21,7 @@ Visão Geral:
 - Margens, Tamanhos e Bordas
 
 Visão Geral:
+
 ```CSS
 table{
   /*Alterando o estilo das bordas da tabela*/
@@ -36,6 +39,7 @@ table{
 - Objetos 
 
 Visão Geral:
+
 ```js
 // Variável: String, Constante
   const mensagem = 'Olá mundo'
@@ -61,6 +65,8 @@ let participantes = [
   for(let participante of participantes){
   // Instruindo a máquina a fazer algo enquanto ainda tiver elementos na lista "participantes"
   }
+
 ```
+
 **OBS: Variáveis podem conter funções**
 **OBS: Let é um tipo de variável que apenas a função que ela está dentro pode modifica-la**
